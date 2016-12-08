@@ -1,2 +1,3 @@
-# if747-RedesAutomotivas
-Projeto da disciplina [if747] - Redes Automotivas
+# IF747-RedesAutomotivas
+Projeto da disciplina [IF747] - Redes Automotivas.
+Alunos: Rubem Moura e Thaysa Pryscilla.
