@@ -10,31 +10,31 @@
 		<h1>
 			Redes Automotivas
 		</h1>
-		<p id="p">Botão para alguma função.</p>
-		<button onclick="start()">Click</button>
-		<button onclick="readLine()">Read LIne</button>
+		<p id="p">Click para iniciar exibição dos dados coletados</p>
+		<button onclick="start()">Iniciar</button>
 
-		<div id="page-wrapper">
+		<div class="border">
 			<h2>Coolant Temperature</h2>
-			<span id="fileDisplayCT"></span>
+			<img id="myImage" src="images/temp1_off.png">
+			<span id="fileDisplayCT" class="numbersValues">-- °C</span>
     	</div>
-		<div id="page-wrapper2">
-			<h3>RPM</h3>
-			<span id="fileDisplayRPM"><span>
+		<div class="border">
+			<h2>RPM</h2>
+			<span id="fileDisplayRPM" class="numbersValues">--- Rpm<span>
     	</div>
-    	<div id="page-wrapper3">
-			<h3>Vehicle Speed</h3>
-			<span id="fileDisplayVS"><span>
+    	<div class="border">
+			<h2>Vehicle Speed</h2>
+			<span id="fileDisplayVS" class="numbersValues">-- Km/h<span>
     	</div>
-    	<div id="page-wrapper4">
-			<h3>Intake Air Temperature</h3>
-			<span id="fileDisplayITA"><span>
+    	<div class="border">
+			<h2>Intake Air Temperature</h2>
+			<span id="fileDisplayITA" class="numbersValues">-- °C<span>
     	</div>
 
 		
 
 	</body>
 
- 	<script src="jquery-3.1.1.min.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<script src="redesAutomotivas.js"></script>
 </html>

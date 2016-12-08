@@ -11,3 +11,30 @@ p{
     font-family: verdana;
     font-size: 20px;
 }
+
+h2{
+    text-align: center;
+}
+
+img{
+	border-radius: 10px;
+	position: absolute;
+	margin-left: -100px;
+	margin-top: 0px;
+}
+
+.border{
+    border-radius: 15px 50px 30px 5px;
+    background: #93000099;
+    padding: 20px; 
+    width: 320px;
+    height: 172px;   
+    margin-top: 30px; 
+    text-align: center;
+}
+
+.numbersValues{
+	text-align: end;
+	vertical-align: text-top;
+	font-size: 20px;
+}

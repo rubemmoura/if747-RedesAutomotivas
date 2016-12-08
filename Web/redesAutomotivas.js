@@ -2,6 +2,7 @@ var fileDisplayCT	= document.getElementById('fileDisplayCT');
 var fileDisplayRPM	= document.getElementById('fileDisplayRPM');
 var fileDisplayVS	= document.getElementById('fileDisplayVS');
 var fileDisplayITA	= document.getElementById('fileDisplayITA');
+var image1			= document.getElementById('imgCoolant');
 
 var numberValueCT	= "";
 var numberValueRPM	= "";
@@ -17,38 +18,35 @@ var time;
 
 function checkFirstLetter(count, string){
 	count++; //Pulando o espaço em branco
-	while(count < string.length){
+	while(count < (string.length - 2)){
 		count++;
 		switch(firstLetter){
 			case 'C':
 				numberValueCT = numberValueCT + string.charAt(count);
-				fileDisplayCT.innerText		= numberValueCT;
+				if(numberValueCT > 87){
+					$("#myImage").attr("src","images/temp1_oN.png");
+				}
+				fileDisplayCT.innerText		= numberValueCT 	+ " °C";
 				break;
 			case 'R':
 				numberValueRPM = numberValueRPM + string.charAt(count);
-				fileDisplayRPM.innerText	= numberValueRPM;
+				fileDisplayRPM.innerText	= numberValueRPM 	+ " Rpm";
 				break;
 			case 'V':
 				numberValueVS = numberValueVS + string.charAt(count);
-				fileDisplayVS.innerText		= numberValueVS;
+				fileDisplayVS.innerText		= numberValueVS 	+ " Km/h";
 				break;
 			case 'I':
 				numberValueITA = numberValueITA + string.charAt(count);
-				fileDisplayITA.innerText	= numberValueITA;
+				fileDisplayITA.innerText	= numberValueITA 	+ " °C";
 				break;
 			default:
 				console.log("Letra desconhecida.");
 		}
 	}
-
-	console.log("numberValueCT = " + numberValueCT);
-	console.log("numberValueRPM = " + numberValueRPM);
-	console.log("numberValueVS = " + numberValueVS);
-	console.log("numberValueITA = " + numberValueITA);
 }
 
 function readLine(){
-	count++;
 	if(line[count].charAt(count2) != "F"){
 		for(count2 = 0; line[count].charAt(count2) != ":"; count2++){ //Tomando a primeira letra e caminhando caracter por caracter da linha até ":"
 			if(count2 == 0){
@@ -56,21 +54,23 @@ function readLine(){
 			}
     	}
     	checkFirstLetter(count2, line[count]);
-    	time = setTimeout(readLine, 3000);
+    	time = setTimeout(readLine, 1000);
 	}else{
 		clearTimeout(time);
-		console.log("firstLetter = F => Fim do Arquivo.");
+		alert("Fim do Arquivo.");
+		console.log("Fim do Arquivo.");
 	}
 	numberValueCT = "";
 	numberValueRPM = "";
 	numberValueVS = "";
 	numberValueITA = "";
+	count++;
 	count2 = 0;
 }
 
 function start() {
     readTextFile("result.txt");
-    time = setTimeout(readLine, 3000);
+    time = setTimeout(readLine, 1000);
 }
 
 function readTextFile(file)
