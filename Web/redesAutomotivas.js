@@ -9,6 +9,12 @@ var numberValueVS	= "";
 var numberValueITA	= "";
 var firstLetter;
 
+var allText;
+var line;
+var count = 0
+var count2 = 0;
+var time;
+
 function checkFirstLetter(count, string){
 	count++; //Pulando o espaço em branco
 	while(count < string.length){
@@ -41,8 +47,30 @@ function checkFirstLetter(count, string){
 	console.log("numberValueITA = " + numberValueITA);
 }
 
-function myFunction() {
+function readLine(){
+	count++;
+	if(line[count].charAt(count2) != "F"){
+		for(count2 = 0; line[count].charAt(count2) != ":"; count2++){ //Tomando a primeira letra e caminhando caracter por caracter da linha até ":"
+			if(count2 == 0){
+				firstLetter = line[count].charAt(count2);
+			}
+    	}
+    	checkFirstLetter(count2, line[count]);
+    	time = setTimeout(readLine, 3000);
+	}else{
+		clearTimeout(time);
+		console.log("firstLetter = F => Fim do Arquivo.");
+	}
+	numberValueCT = "";
+	numberValueRPM = "";
+	numberValueVS = "";
+	numberValueITA = "";
+	count2 = 0;
+}
+
+function start() {
     readTextFile("result.txt");
+    time = setTimeout(readLine, 3000);
 }
 
 function readTextFile(file)
@@ -55,24 +83,8 @@ function readTextFile(file)
         {
             if(rawFile.status === 200 || rawFile.status == 0)
             {
-                var allText = rawFile.responseText;
-                var line = allText.split("\n");
-                var count, count2;
-
-                for(count = 0; count < line.length; count++){ //Tomando linha por linha
-                	if(line[count].charAt(count2) != "F"){
-                		for(count2 = 0; line[count].charAt(count2) != ":"; count2++){ //Tomando a primeira letra e caminhando caracter por caracter da linha até ":"
-                			if(count2 == 0){
-                				firstLetter = line[count].charAt(count2);
-                			}
-	                	}
-	                	checkFirstLetter(count2, line[count]);
-                	}else{
-						console.log("firstLetter = F => Fim do Arquivo.");
-                	}
-
-                	count2 = 0;
-                }
+                allText = rawFile.responseText;
+               	line = allText.split("\n");
             }
         }
     }
