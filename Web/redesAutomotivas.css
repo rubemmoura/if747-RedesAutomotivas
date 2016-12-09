@@ -1,15 +1,123 @@
+@font-face {
+	font-family: 'cobaltaliensuperital';
+	src: url('./cobaltaliensuperital.eot');
+	src: local('cobaltaliensuperital'), url('./cobaltaliensuperital.woff') format('woff'), url('./cobaltaliensuperital.ttf') format('truetype');
+}
+
+* {
+	font-family: 'cobaltaliensuperital';
+}
+
+html {
+	overflow-x: hidden;
+}
+
 body{
-    background-color: lightblue;
+    background-color:lightgray;
+    width: 99%;
+    height: 100%;
+    position: absolute;
+}
+
+header{
+    width: 100%;
+    height: 150px;
+}
+
+section{
+    width: auto;
+    height: auto;
+    border: 5px solid black;
+}
+
+#padrao{
+    width: 100%;
+    height: 100px;
 }
 
 h1{
-    color: blue;
-    text-align: center;
+    color: lightseagreen;
+    background-color: black;
+
+    width: auto;
+    margin-left: 220px;
+    margin-top: -5px;
+    margin-bottom: 0px;
+    padding-left: 10px;
+
+    font-weight: bolder;
+    z-index: 1;    
 }
 
-p{
-    font-family: verdana;
+#logo{
+    position: absolute;
+    width: 347px;
+    height: 100px;
+    z-index: -1;
+    border-radius: 0px;
+    border-right:300px;
+    margin: initial;
+    margin-left: -15px;   
+}
+
+#slogan{
+
+    display:inline-block;
+    position: relative; 
+    z-index: 1;
+
+    width:1010px;
+    height: 45px;
+    margin-top:0px;
+    margin-left:332px;
+    padding-top: 25px; 
+
+    background-color: lightseagreen;
+    color: black;
+    opacity: 0.65;
+
+    font-weight: bolder;    
+    text-align: center;
+    font-family: cobaltaliensuperital;
     font-size: 20px;
+}
+
+#logger{
+    background
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    margin: 0px 0px 0px -10px;
+    z-index: -1;
+    
+    display: block;
+    text-align: center;
+
+}
+
+#p{
+    position: relative;
+    display: inline;
+    
+    color: darkgray;
+    font-family: verdana;
+    font-style:bold;
+    font-size: 16px;
+    
+    z-index:1;
+}
+
+
+#iniciar{
+    display: block;
+    font-family: verdana;
+    font-style: bold;
+    font-size: 17px;
+    position: relative;
+    display: inline; 
+    margin-top: 2px;
+    background-color: aquamarine;
+    
 }
 
 h2{
@@ -23,14 +131,27 @@ img{
 	margin-top: 0px;
 }
 
+#bor1{
+    display: block;
+    margin: 10px 10px 5px 10px;
+}
+
+#bor2{
+    display: block;
+    margin: 5px 10px 10px 10px;
+}
+
 .border{
     border-radius: 15px 50px 30px 5px;
     background: #93000099;
-    padding: 20px; 
-    width: 320px;
-    height: 172px;   
-    margin-top: 30px; 
+    padding: 25px; 
+    width: 400px;
+    height: 200px;   
+    display: inline-block;
+    position: relative;
+    margin: 30px; 
     text-align: center;
+    border: 3px solid black;
 }
 
 .numbersValues{
