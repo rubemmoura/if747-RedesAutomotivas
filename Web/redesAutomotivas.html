@@ -3,33 +3,48 @@
 	<head>
 	 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 		<link rel="stylesheet" type="text/css" href="redesAutomotivas.css">
+		<link rel="stylesheet" href="font/font.css">
+		<link rel="icon" type="image/jpg" href="images/icone.jpg" /> 
 		<title>Redes Automotivas</title>
 	</head>
 	<body>
+		<header>
+			<div id="padrao">
+				<img id="logo" src="images/logo.jpg">
+				<h1>Frottor</h1>
+				<p id="slogan">Diagnóstico de veículos em tempo real.</p>
+			</div>
 
-		<h1>
-			Redes Automotivas
-		</h1>
-		<p id="p">Click para iniciar exibição dos dados coletados</p>
-		<button onclick="start()">Iniciar</button>
+			<div id="logger">
+				<p id="p">Iniciar a aquisição de dados</p>
+				<button id="iniciar" onclick="start()">Iniciar</button><br>
+			</div>
+		</header>
 
-		<div class="border">
-			<h2>Coolant Temperature</h2>
-			<img id="myImage" src="images/temp1_off.png">
-			<span id="fileDisplayCT" class="numbersValues">-- °C</span>
-    	</div>
-		<div class="border">
-			<h2>RPM</h2>
-			<span id="fileDisplayRPM" class="numbersValues">--- Rpm<span>
-    	</div>
-    	<div class="border">
-			<h2>Vehicle Speed</h2>
-			<span id="fileDisplayVS" class="numbersValues">-- Km/h<span>
-    	</div>
-    	<div class="border">
-			<h2>Intake Air Temperature</h2>
-			<span id="fileDisplayITA" class="numbersValues">-- °C<span>
-    	</div>
+		<section>
+			<div id="bor1">
+				<div class="border">
+					<h2>Coolant Temperature</h2>
+					<img id="myImage" src="images/temp1_off.png">
+					<span id="fileDisplayCT" class="numbersValues">-- °C</span>
+				</div>
+				<div class="border">
+					<h2>RPM</h2>
+					<span id="fileDisplayRPM" class="numbersValues">--- Rpm<span>
+				</div>
+			</div>
+
+			<div id="bor2">
+				<div class="border">
+					<h2>Vehicle Speed</h2>
+					<span id="fileDisplayVS" class="numbersValues">-- Km/h<span>
+				</div>
+				<div class="border">
+					<h2>Intake Air Temperature</h2>
+					<span id="fileDisplayITA" class="numbersValues">-- °C<span>
+				</div>
+			</div>
+		</section>
 
 		
 
