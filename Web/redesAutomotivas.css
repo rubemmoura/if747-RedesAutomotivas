@@ -67,7 +67,7 @@ h1{
     z-index: 1;
 
     width:1010px;
-    height: 45px;
+    height: 42px;
     margin-top:0px;
     margin-left:332px;
     padding-top: 25px; 
@@ -133,20 +133,28 @@ img{
 
 #bor1{
     display: block;
-    margin: 10px 10px 5px 10px;
+    margin: 0px 90px 0px 90px;
 }
 
 #bor2{
     display: block;
-    margin: 5px 10px 10px 10px;
+    margin: 0px 90px 0px 90px;
+}
+
+#rpm{
+	float: right;
+}
+
+#intakeAirTemp{
+	float: right;
 }
 
 .border{
     border-radius: 15px 50px 30px 5px;
     background: #93000099;
     padding: 25px; 
-    width: 400px;
-    height: 200px;   
+    width: 340px;
+    height: 140px;   
     display: inline-block;
     position: relative;
     margin: 30px; 
