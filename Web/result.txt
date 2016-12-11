@@ -365,125 +365,58 @@ Intake Air Temperature: 42
 Coolant Temperature: 89
 RPM: 1852
 Vehicle speed: 43
-Intake Air Temperature: 42
-Coolant Temperature: 89
 RPM: 1776
-Vehicle speed: 42
-Intake Air Temperature: 43
 Coolant Temperature: 89
 RPM: 1748
-Vehicle speed: 41
 Intake Air Temperature: 43
-Coolant Temperature: 89
 RPM: 1694
 Vehicle speed: 39
-Intake Air Temperature: 43
 Coolant Temperature: 89
-RPM: 1564
 Vehicle speed: 36
 Intake Air Temperature: 44
-Coolant Temperature: 89
 RPM: 1345
-Vehicle speed: 30
 Intake Air Temperature: 44
-Coolant Temperature: 88
 RPM: 1125
-Vehicle speed: 26
 Intake Air Temperature: 44
-Coolant Temperature: 88
 RPM: 999
 Vehicle speed: 24
-Intake Air Temperature: 45
 Coolant Temperature: 88
 RPM: 933
-Vehicle speed: 22
 Intake Air Temperature: 45
-Coolant Temperature: 88
 RPM: 912
 Vehicle speed: 17
-Intake Air Temperature: 45
 Coolant Temperature: 87
-RPM: 911
 Vehicle speed: 12
-Intake Air Temperature: 45
 Coolant Temperature: 87
 RPM: 919
-Vehicle speed: 6
 Intake Air Temperature: 45
-Coolant Temperature: 87
 RPM: 929
 Vehicle speed: 2
 Intake Air Temperature: 45
 Coolant Temperature: 87
-RPM: 924
 Vehicle speed: 0
-Intake Air Temperature: 45
 Coolant Temperature: 87
-RPM: 934
 Vehicle speed: 0
-Intake Air Temperature: 45
 Coolant Temperature: 87
-RPM: 909
 Vehicle speed: 0
-Intake Air Temperature: 45
-Coolant Temperature: 87
-RPM: 925
-Vehicle speed: 0
-Intake Air Temperature: 45
-Coolant Temperature: 87
-RPM: 922
-Vehicle speed: 0
-Intake Air Temperature: 45
-Coolant Temperature: 87
-RPM: 922
-Vehicle speed: 0
-Intake Air Temperature: 45
 Coolant Temperature: 87
 RPM: 918
-Vehicle speed: 0
 Intake Air Temperature: 45
-Coolant Temperature: 87
 RPM: 920
 Vehicle speed: 0
-Intake Air Temperature: 45
 Coolant Temperature: 87
-RPM: 926
 Vehicle speed: 0
-Intake Air Temperature: 45
 Coolant Temperature: 87
 RPM: 920
-Vehicle speed: 0
 Intake Air Temperature: 45
-Coolant Temperature: 87
 RPM: 928
 Vehicle speed: 0
-Intake Air Temperature: 45
 Coolant Temperature: 87
-RPM: 933
 Vehicle speed: 0
-Intake Air Temperature: 45
 Coolant Temperature: 87
 RPM: 917
 Vehicle speed: 0
-Intake Air Temperature: 45
 Coolant Temperature: 87
-RPM: 921
-Vehicle speed: 0
-Intake Air Temperature: 45
-Coolant Temperature: 87
-RPM: 915
-Vehicle speed: 0
-Intake Air Temperature: 45
-Coolant Temperature: 87
-RPM: 997
-Vehicle speed: 0
-Intake Air Temperature: 45
-Coolant Temperature: 87
-RPM: 991
-Vehicle speed: 0
-Intake Air Temperature: 45
-Coolant Temperature: 87
-RPM: 1006
 Vehicle speed: 0
 Intake Air Temperature: 45
 Coolant Temperature: 87
@@ -493,799 +426,301 @@ Intake Air Temperature: 45
 Coolant Temperature: 87
 RPM: 1403
 Vehicle speed: 1
-Intake Air Temperature: 45
-Coolant Temperature: 87
-RPM: 993
-Vehicle speed: 1
-Intake Air Temperature: 45
 Coolant Temperature: 87
 RPM: 981
-Vehicle speed: 1
 Intake Air Temperature: 45
-Coolant Temperature: 87
 RPM: 1553
-Vehicle speed: 4
 Intake Air Temperature: 45
 Coolant Temperature: 87
-RPM: 1516
 Vehicle speed: 9
-Intake Air Temperature: 45
 Coolant Temperature: 87
 RPM: 2318
-Vehicle speed: 14
 Intake Air Temperature: 44
-Coolant Temperature: 87
 RPM: 2479
 Vehicle speed: 16
 Intake Air Temperature: 43
-Coolant Temperature: 87
 RPM: 1644
-Vehicle speed: 18
 Intake Air Temperature: 44
 Coolant Temperature: 87
-RPM: 2001
 Vehicle speed: 22
-Intake Air Temperature: 44
 Coolant Temperature: 87
-RPM: 2413
 Vehicle speed: 27
-Intake Air Temperature: 44
 Coolant Temperature: 88
-RPM: 2623
 Vehicle speed: 29
 Intake Air Temperature: 43
-Coolant Temperature: 88
 RPM: 2675
 Vehicle speed: 31
-Intake Air Temperature: 43
 Coolant Temperature: 88
 RPM: 1899
-Vehicle speed: 33
 Intake Air Temperature: 44
-Coolant Temperature: 88
 RPM: 2077
 Vehicle speed: 37
-Intake Air Temperature: 43
 Coolant Temperature: 88
-RPM: 2204
 Vehicle speed: 39
-Intake Air Temperature: 43
 Coolant Temperature: 88
 RPM: 2232
-Vehicle speed: 40
 Intake Air Temperature: 42
-Coolant Temperature: 89
 RPM: 1780
 Vehicle speed: 42
-Intake Air Temperature: 43
 Coolant Temperature: 89
-RPM: 1846
 Vehicle speed: 43
 Intake Air Temperature: 43
-Coolant Temperature: 89
 RPM: 1886
-Vehicle speed: 44
 Intake Air Temperature: 43
-Coolant Temperature: 89
 RPM: 1896
-Vehicle speed: 44
 Intake Air Temperature: 43
 Coolant Temperature: 89
-RPM: 1887
 Vehicle speed: 44
 Intake Air Temperature: 43
-Coolant Temperature: 89
 RPM: 1876
-Vehicle speed: 44
 Intake Air Temperature: 43
-Coolant Temperature: 89
 RPM: 1880
 Vehicle speed: 44
-Intake Air Temperature: 44
 Coolant Temperature: 89
-RPM: 1818
 Vehicle speed: 43
-Intake Air Temperature: 44
 Coolant Temperature: 89
 RPM: 1839
 Vehicle speed: 44
 Intake Air Temperature: 44
-Coolant Temperature: 89
 RPM: 1890
-Vehicle speed: 45
 Intake Air Temperature: 44
 Coolant Temperature: 89
-RPM: 1934
 Vehicle speed: 46
-Intake Air Temperature: 44
 Coolant Temperature: 89
-RPM: 1960
 Vehicle speed: 46
 Intake Air Temperature: 43
-Coolant Temperature: 89
 RPM: 1954
-Vehicle speed: 46
-Intake Air Temperature: 43
-Coolant Temperature: 89
-RPM: 1924
 Vehicle speed: 45
-Intake Air Temperature: 43
 Coolant Temperature: 89
 RPM: 1903
-Vehicle speed: 45
 Intake Air Temperature: 43
-Coolant Temperature: 89
 RPM: 1879
 Vehicle speed: 44
-Intake Air Temperature: 44
 Coolant Temperature: 89
-RPM: 1840
 Vehicle speed: 43
 Intake Air Temperature: 44
 Coolant Temperature: 89
-RPM: 1835
 Vehicle speed: 43
 Intake Air Temperature: 44
-Coolant Temperature: 89
-RPM: 1828
 Vehicle speed: 43
-Intake Air Temperature: 44
 Coolant Temperature: 88
-RPM: 1843
 Vehicle speed: 42
 Intake Air Temperature: 44
-Coolant Temperature: 88
 RPM: 1763
-Vehicle speed: 41
 Intake Air Temperature: 44
 Coolant Temperature: 88
-RPM: 1722
 Vehicle speed: 40
 Intake Air Temperature: 44
-Coolant Temperature: 88
 RPM: 1571
-Vehicle speed: 36
 Intake Air Temperature: 44
-Coolant Temperature: 88
 RPM: 1319
 Vehicle speed: 30
-Intake Air Temperature: 45
 Coolant Temperature: 88
-RPM: 1118
 Vehicle speed: 30
-Intake Air Temperature: 45
 Coolant Temperature: 88
 RPM: 1720
-Vehicle speed: 30
 Intake Air Temperature: 45
-Coolant Temperature: 88
 RPM: 1798
-Vehicle speed: 32
 Intake Air Temperature: 45
-Coolant Temperature: 88
 RPM: 1955
 Vehicle speed: 34
-Intake Air Temperature: 45
 Coolant Temperature: 88
-RPM: 2054
 Vehicle speed: 36
-Intake Air Temperature: 44
 Coolant Temperature: 88
 RPM: 2160
-Vehicle speed: 38
 Intake Air Temperature: 44
-Coolant Temperature: 88
 RPM: 2238
-Vehicle speed: 39
 Intake Air Temperature: 43
 Coolant Temperature: 88
-RPM: 2239
 Vehicle speed: 39
-Intake Air Temperature: 43
 Coolant Temperature: 88
-RPM: 1766
 Vehicle speed: 38
-Intake Air Temperature: 43
 Coolant Temperature: 88
 RPM: 1618
-Vehicle speed: 38
 Intake Air Temperature: 44
 Coolant Temperature: 88
-RPM: 1640
 Vehicle speed: 39
-Intake Air Temperature: 44
 Coolant Temperature: 88
-RPM: 1644
 Vehicle speed: 39
 Intake Air Temperature: 43
-Coolant Temperature: 88
 RPM: 1628
-Vehicle speed: 38
 Intake Air Temperature: 43
-Coolant Temperature: 88
 RPM: 1575
 Vehicle speed: 37
-Intake Air Temperature: 44
 Coolant Temperature: 88
-RPM: 1541
 Vehicle speed: 37
-Intake Air Temperature: 44
 Coolant Temperature: 88
-RPM: 1579
 Vehicle speed: 37
-Intake Air Temperature: 44
 Coolant Temperature: 88
 RPM: 1608
-Vehicle speed: 38
 Intake Air Temperature: 44
-Coolant Temperature: 88
 RPM: 1585
-Vehicle speed: 37
 Intake Air Temperature: 44
-Coolant Temperature: 88
 RPM: 1537
 Vehicle speed: 36
 Intake Air Temperature: 44
-Coolant Temperature: 88
 RPM: 1493
 Vehicle speed: 35
-Intake Air Temperature: 44
 Coolant Temperature: 88
-RPM: 1447
 Vehicle speed: 34
-Intake Air Temperature: 44
 Coolant Temperature: 88
-RPM: 1410
 Vehicle speed: 33
 Intake Air Temperature: 45
-Coolant Temperature: 88
 RPM: 1376
-Vehicle speed: 32
 Intake Air Temperature: 45
 Coolant Temperature: 88
 RPM: 1333
-Vehicle speed: 32
 Intake Air Temperature: 46
-Coolant Temperature: 88
 RPM: 1369
-Vehicle speed: 32
 Intake Air Temperature: 45
 Coolant Temperature: 88
-RPM: 1374
+Vehicle speed: 32
+Coolant Temperature: 88
 Vehicle speed: 32
 Intake Air Temperature: 45
-Coolant Temperature: 88
-RPM: 1412
-Vehicle speed: 32
-Intake Air Temperature: 45
-Coolant Temperature: 88
 RPM: 1382
-Vehicle speed: 32
 Intake Air Temperature: 45
-Coolant Temperature: 88
 RPM: 1338
 Vehicle speed: 31
-Intake Air Temperature: 45
 Coolant Temperature: 88
-RPM: 1310
 Vehicle speed: 31
-Intake Air Temperature: 45
 Coolant Temperature: 88
 RPM: 1299
-Vehicle speed: 30
 Intake Air Temperature: 45
-Coolant Temperature: 88
 RPM: 1254
 Vehicle speed: 29
-Intake Air Temperature: 45
 Coolant Temperature: 88
-RPM: 1178
 Vehicle speed: 27
-Intake Air Temperature: 45
 Coolant Temperature: 88
 RPM: 1019
-Vehicle speed: 23
 Intake Air Temperature: 46
 Coolant Temperature: 87
-RPM: 954
 Vehicle speed: 19
 Intake Air Temperature: 46
-Coolant Temperature: 87
 RPM: 906
-Vehicle speed: 18
 Intake Air Temperature: 46
 Coolant Temperature: 87
-RPM: 939
 Vehicle speed: 17
 Intake Air Temperature: 45
-Coolant Temperature: 87
 RPM: 903
-Vehicle speed: 14
 Intake Air Temperature: 45
-Coolant Temperature: 87
 RPM: 921
 Vehicle speed: 8
-Intake Air Temperature: 45
 Coolant Temperature: 87
 RPM: 916
-Vehicle speed: 3
 Intake Air Temperature: 45
-Coolant Temperature: 87
 RPM: 923
-Vehicle speed: 0
 Intake Air Temperature: 46
 Coolant Temperature: 87
-RPM: 1004
 Vehicle speed: 0
-Intake Air Temperature: 46
 Coolant Temperature: 87
 RPM: 906
-Vehicle speed: 0
-Intake Air Temperature: 46
 Coolant Temperature: 87
-RPM: 1143
 Vehicle speed: 5
-Intake Air Temperature: 46
 Coolant Temperature: 87
 RPM: 1595
 Vehicle speed: 10
-Intake Air Temperature: 45
 Coolant Temperature: 87
 RPM: 2214
-Vehicle speed: 13
 Intake Air Temperature: 45
-Coolant Temperature: 87
 RPM: 2032
-Vehicle speed: 14
 Intake Air Temperature: 45
 Coolant Temperature: 87
-RPM: 1624
 Vehicle speed: 18
-Intake Air Temperature: 45
 Coolant Temperature: 87
 RPM: 2010
 Vehicle speed: 22
-Intake Air Temperature: 45
 Coolant Temperature: 87
-RPM: 2330
 Vehicle speed: 26
 Intake Air Temperature: 44
-Coolant Temperature: 88
 RPM: 1886
-Vehicle speed: 27
 Intake Air Temperature: 43
 Coolant Temperature: 88
-RPM: 1506
 Vehicle speed: 27
-Intake Air Temperature: 44
 Coolant Temperature: 88
 RPM: 1544
-Vehicle speed: 26
 Intake Air Temperature: 44
-Coolant Temperature: 88
 RPM: 1478
 Vehicle speed: 25
-Intake Air Temperature: 44
 Coolant Temperature: 88
 RPM: 1424
-Vehicle speed: 24
 Intake Air Temperature: 44
-Coolant Temperature: 88
 RPM: 1406
 Vehicle speed: 24
-Intake Air Temperature: 45
 Coolant Temperature: 88
-RPM: 1428
 Vehicle speed: 25
 Intake Air Temperature: 45
-Coolant Temperature: 88
 RPM: 1471
-Vehicle speed: 26
 Intake Air Temperature: 45
-Coolant Temperature: 88
 RPM: 1422
 Vehicle speed: 25
-Intake Air Temperature: 45
 Coolant Temperature: 88
 RPM: 1387
-Vehicle speed: 24
 Intake Air Temperature: 45
-Coolant Temperature: 88
-RPM: 1339
-Vehicle speed: 23
-Intake Air Temperature: 45
-Coolant Temperature: 88
-RPM: 1271
-Vehicle speed: 22
-Intake Air Temperature: 45
-Coolant Temperature: 88
-RPM: 1231
-Vehicle speed: 21
 Intake Air Temperature: 46
 Coolant Temperature: 88
-RPM: 1173
-Vehicle speed: 20
-Intake Air Temperature: 46
-Coolant Temperature: 88
-RPM: 1178
-Vehicle speed: 20
-Intake Air Temperature: 46
-Coolant Temperature: 88
-RPM: 1058
-Vehicle speed: 19
-Intake Air Temperature: 46
-Coolant Temperature: 88
-RPM: 962
-Vehicle speed: 17
-Intake Air Temperature: 46
-Coolant Temperature: 88
-RPM: 910
-Vehicle speed: 15
-Intake Air Temperature: 46
-Coolant Temperature: 88
-RPM: 1064
-Vehicle speed: 9
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 895
-Vehicle speed: 2
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 893
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 932
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 917
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 935
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 940
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 915
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 927
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 947
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 941
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 941
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 923
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 945
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 936
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 931
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 942
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 931
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 926
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 88
-RPM: 923
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 925
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 921
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 910
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 922
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 906
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 916
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 914
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 920
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 894
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 921
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 922
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 922
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 922
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 919
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 918
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 911
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 914
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 918
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 926
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 913
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 910
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 920
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 913
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 917
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 926
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 886
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 921
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 913
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 916
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 915
-Vehicle speed: 0
-Coolant Temperature: 87
-RPM: 913
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 1010
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 986
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 976
-Vehicle speed: 0
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 832
-Vehicle speed: 2
-Coolant Temperature: 87
-RPM: 831
-Vehicle speed: 5
-Intake Air Temperature: 47
-Coolant Temperature: 87
-RPM: 1559
-Vehicle speed: 10
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 2354
-Vehicle speed: 14
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 1563
-Vehicle speed: 15
-Intake Air Temperature: 45
-Coolant Temperature: 87
-RPM: 1640
-Vehicle speed: 18
-Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 2000
-Vehicle speed: 22
-Intake Air Temperature: 45
-Coolant Temperature: 87
-RPM: 2288
-Intake Air Temperature: 45
-Coolant Temperature: 88
-RPM: 2492
-Vehicle speed: 28
-Intake Air Temperature: 45
-Coolant Temperature: 88
-RPM: 2763
-Vehicle speed: 31
-Coolant Temperature: 88
-RPM: 2495
-Vehicle speed: 31
 Intake Air Temperature: 44
-Coolant Temperature: 88
 RPM: 1913
-Vehicle speed: 33
 Intake Air Temperature: 45
 Coolant Temperature: 88
-RPM: 2110
 Vehicle speed: 37
-Intake Air Temperature: 45
 Coolant Temperature: 88
 RPM: 2353
-Vehicle speed: 42
 Intake Air Temperature: 44
-Coolant Temperature: 88
 RPM: 2575
-Vehicle speed: 45
 Intake Air Temperature: 44
 Coolant Temperature: 89
-RPM: 2415
 Vehicle speed: 46
-Intake Air Temperature: 43
 Coolant Temperature: 89
-RPM: 1905
 Vehicle speed: 45
 Intake Air Temperature: 44
-Coolant Temperature: 89
-RPM: 1885
-Vehicle speed: 44
-Intake Air Temperature: 44
-Coolant Temperature: 90
 RPM: 1839
-Vehicle speed: 43
-Intake Air Temperature: 44
 Coolant Temperature: 90
-RPM: 1781
 Vehicle speed: 42
-Intake Air Temperature: 44
 Coolant Temperature: 90
-RPM: 1737
 Vehicle speed: 40
-Intake Air Temperature: 45
 Coolant Temperature: 90
 RPM: 1660
-Vehicle speed: 39
 Intake Air Temperature: 45
 Coolant Temperature: 90
-RPM: 1607
 Vehicle speed: 37
 Intake Air Temperature: 45
-Coolant Temperature: 90
 RPM: 1562
 Vehicle speed: 36
-Intake Air Temperature: 46
 Coolant Temperature: 90
-RPM: 1542
 Vehicle speed: 36
-Intake Air Temperature: 46
 Coolant Temperature: 89
 RPM: 1535
-Vehicle speed: 36
 Intake Air Temperature: 46
-Coolant Temperature: 89
 RPM: 1521
 Vehicle speed: 35
 Coolant Temperature: 89
-RPM: 1494
 Vehicle speed: 35
 Intake Air Temperature: 46
-Coolant Temperature: 89
 RPM: 1330
-Vehicle speed: 33
 Intake Air Temperature: 46
 Coolant Temperature: 88
-RPM: 1106
 Vehicle speed: 27
-Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 975
-Vehicle speed: 21
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 915
 Vehicle speed: 15
-Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 914
-Vehicle speed: 9
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 940
-Vehicle speed: 4
 Intake Air Temperature: 47
-Coolant Temperature: 87
 RPM: 925
 Vehicle speed: 2
 Intake Air Temperature: 47
-Coolant Temperature: 87
 RPM: 932
-Vehicle speed: 1
 Intake Air Temperature: 47
 Coolant Temperature: 87
-RPM: 923
+Vehicle speed: 0
+Coolant Temperature: 87
 Vehicle speed: 0
 Intake Air Temperature: 47
-Coolant Temperature: 87
-RPM: 927
-Vehicle speed: 0
-Intake Air Temperature: 47
-Coolant Temperature: 87
 RPM: 929
 Vehicle speed: 0
 Intake Air Temperature: 47
@@ -1299,69 +734,42 @@ Vehicle speed: 0
 Intake Air Temperature: 47
 Coolant Temperature: 87
 RPM: 933
-Vehicle speed: 0
 Intake Air Temperature: 47
-Coolant Temperature: 87
 RPM: 926
 Vehicle speed: 0
-Intake Air Temperature: 47
 Coolant Temperature: 87
-RPM: 918
 Vehicle speed: 0
-Intake Air Temperature: 47
 Coolant Temperature: 87
-RPM: 933
-Vehicle speed: 0
-Intake Air Temperature: 47
 Coolant Temperature: 87
-RPM: 920
 Vehicle speed: 0
-Intake Air Temperature: 46
 Coolant Temperature: 87
 RPM: 921
+Intake Air Temperature: 46
+Coolant Temperature: 87
 Vehicle speed: 0
-Intake Air Temperature: 46
 Coolant Temperature: 87
-RPM: 939
-Vehicle speed: 0
 Intake Air Temperature: 46
-Coolant Temperature: 87
-RPM: 917
-Intake Air Temperature: 46
-Coolant Temperature: 87
 RPM: 921
 Vehicle speed: 0
 Intake Air Temperature: 47
-Coolant Temperature: 87
 RPM: 931
-Vehicle speed: 0
 Intake Air Temperature: 47
-Coolant Temperature: 87
 RPM: 918
 RPM: 927
-Intake Air Temperature: 47
 Coolant Temperature: 87
-RPM: 935
 Vehicle speed: 0
 Intake Air Temperature: 47
 Coolant Temperature: 87
 RPM: 911
-Vehicle speed: 0
 Intake Air Temperature: 47
 Coolant Temperature: 87
-RPM: 939
 Vehicle speed: 0
 Intake Air Temperature: 47
-Coolant Temperature: 87
 RPM: 909
-Vehicle speed: 0
 Intake Air Temperature: 47
-Coolant Temperature: 87
 RPM: 906
 Vehicle speed: 0
-Intake Air Temperature: 47
 Coolant Temperature: 87
-RPM: 923
 Vehicle speed: 0
 Intake Air Temperature: 47
 Coolant Temperature: 87
@@ -1372,147 +780,88 @@ Coolant Temperature: 87
 RPM: 1068
 Vehicle speed: 5
 Intake Air Temperature: 47
-Coolant Temperature: 87
 RPM: 1785
-Vehicle speed: 11
 Intake Air Temperature: 47
 Coolant Temperature: 87
-RPM: 2497
 Vehicle speed: 15
 Intake Air Temperature: 46
-Coolant Temperature: 87
 RPM: 2271
-Vehicle speed: 16
 Intake Air Temperature: 46
-Coolant Temperature: 87
 RPM: 1670
 Vehicle speed: 19
-Intake Air Temperature: 46
 Coolant Temperature: 88
-RPM: 2023
 Vehicle speed: 23
 Intake Air Temperature: 46
-Coolant Temperature: 88
 RPM: 2338
-Vehicle speed: 26
 Intake Air Temperature: 46
 Coolant Temperature: 88
-RPM: 1956
 Vehicle speed: 26
-Intake Air Temperature: 45
 Coolant Temperature: 88
-RPM: 1523
 Vehicle speed: 27
 Intake Air Temperature: 46
-Coolant Temperature: 88
 RPM: 1589
 Vehicle speed: 28
-Intake Air Temperature: 46
 Coolant Temperature: 88
 RPM: 1663
-Vehicle speed: 29
 Intake Air Temperature: 46
-Coolant Temperature: 88
 RPM: 1746
 Vehicle speed: 31
-Intake Air Temperature: 46
 Coolant Temperature: 88
-RPM: 1808
 Vehicle speed: 31
-Intake Air Temperature: 46
 Coolant Temperature: 88
 RPM: 1824
-Vehicle speed: 32
 Intake Air Temperature: 46
-Coolant Temperature: 88
 RPM: 1839
 Vehicle speed: 31
-Intake Air Temperature: 46
 Coolant Temperature: 88
-RPM: 1649
 Vehicle speed: 28
 Intake Air Temperature: 46
-Coolant Temperature: 88
 RPM: 1312
-Vehicle speed: 20
 Intake Air Temperature: 46
 Coolant Temperature: 88
-RPM: 1121
 Vehicle speed: 12
-Intake Air Temperature: 46
 Coolant Temperature: 88
-RPM: 982
 Vehicle speed: 7
 Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 925
-Vehicle speed: 3
-Intake Air Temperature: 47
-Coolant Temperature: 88
-RPM: 911
 Vehicle speed: 1
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 907
-Vehicle speed: 0
 Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 917
 Vehicle speed: 0
-Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 922
-Vehicle speed: 0
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 927
-Vehicle speed: 0
 Intake Air Temperature: 47
 Coolant Temperature: 88
+Vehicle speed: 0
+Coolant Temperature: 88
+Vehicle speed: 0
+Intake Air Temperature: 47
 RPM: 920
-Vehicle speed: 0
 Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 908
 Vehicle speed: 0
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 920
-Vehicle speed: 0
-Intake Air Temperature: 47
-Coolant Temperature: 88
-RPM: 1014
-Vehicle speed: 0
-Intake Air Temperature: 47
-Coolant Temperature: 88
-RPM: 1190
 Vehicle speed: 2
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1220
-Vehicle speed: 7
 Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1806
 Vehicle speed: 11
-Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 2244
-Vehicle speed: 13
 Intake Air Temperature: 46
-Coolant Temperature: 88
 RPM: 1414
 Vehicle speed: 17
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1973
 Vehicle speed: 23
 Intake Air Temperature: 46
 RPM: 2475
-Vehicle speed: 27
 Intake Air Temperature: 46
 Coolant Temperature: 88
-RPM: 2064
 Vehicle speed: 28
 Intake Air Temperature: 45
 Coolant Temperature: 88
@@ -1521,6 +870,7 @@ Vehicle speed: 29
 Intake Air Temperature: 46
 Coolant Temperature: 88
 RPM: 1823
+Vehicle speed: 32
 Intake Air Temperature: 46
 Coolant Temperature: 88
 RPM: 1884
@@ -1528,150 +878,92 @@ Vehicle speed: 33
 Intake Air Temperature: 45
 Coolant Temperature: 88
 RPM: 1820
-Vehicle speed: 31
 Intake Air Temperature: 45
 Coolant Temperature: 88
-RPM: 1733
 Vehicle speed: 30
 Intake Air Temperature: 45
-Coolant Temperature: 88
 RPM: 1452
 Vehicle speed: 27
-Intake Air Temperature: 46
 Coolant Temperature: 88
-RPM: 1213
 Vehicle speed: 23
-Intake Air Temperature: 46
 Coolant Temperature: 88
 RPM: 1093
-Vehicle speed: 20
 Intake Air Temperature: 46
-Coolant Temperature: 88
 RPM: 1008
 Vehicle speed: 16
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 921
-Vehicle speed: 11
 Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 920
 Vehicle speed: 6
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 909
 Vehicle speed: 4
-Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 894
-Vehicle speed: 2
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 899
 Vehicle speed: 1
+Coolant Temperature: 88
 Intake Air Temperature: 47
 Coolant Temperature: 88
 Vehicle speed: 0
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 881
 Vehicle speed: 0
-Intake Air Temperature: 47
-Coolant Temperature: 88
-RPM: 908
-Vehicle speed: 0
-Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 928
-Vehicle speed: 0
 Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 926
-Vehicle speed: 0
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 916
-Vehicle speed: 0
 Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 933
 Vehicle speed: 0
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 932
 Vehicle speed: 0
-Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 930
-Vehicle speed: 0
 Intake Air Temperature: 47
+RPM: 930
+Intake Air Temperature: 47
+Coolant Temperature: 88
+Vehicle speed: 0
 Coolant Temperature: 88
 RPM: 930
-Vehicle speed: 0
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 927
 Vehicle speed: 0
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 930
 Vehicle speed: 0
 Intake Air Temperature: 47
-Coolant Temperature: 88
-RPM: 927
-Vehicle speed: 0
-Intake Air Temperature: 47
-Coolant Temperature: 88
-RPM: 913
-Vehicle speed: 0
-Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 925
-Vehicle speed: 0
 Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 932
+Vehicle speed: 0
+Coolant Temperature: 88
 Vehicle speed: 0
 Intake Air Temperature: 47
-Coolant Temperature: 88
-RPM: 925
-Vehicle speed: 0
-Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 926
-Vehicle speed: 0
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 953
+Intake Air Temperature: 48
+Coolant Temperature: 88
+Vehicle speed: 0
+Coolant Temperature: 88
 Vehicle speed: 0
 Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 923
 Vehicle speed: 0
-Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 917
-Vehicle speed: 0
-Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 905
-Vehicle speed: 0
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 920
-Vehicle speed: 0
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 923
-Vehicle speed: 0
 Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 878
 Vehicle speed: 0
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 921
-Vehicle speed: 0
 Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 914
@@ -1685,158 +977,80 @@ Coolant Temperature: 88
 RPM: 917
 Vehicle speed: 0
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 923
 Vehicle speed: 0
-Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 911
-Vehicle speed: 0
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 934
 Vehicle speed: 0
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 909
 Vehicle speed: 0
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 924
-Vehicle speed: 0
 Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 915
-Vehicle speed: 0
 RPM: 928
-Vehicle speed: 0
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 919
-Vehicle speed: 0
 Coolant Temperature: 88
-RPM: 925
 Vehicle speed: 0
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 916
-Vehicle speed: 0
 Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 911
+Vehicle speed: 0
+Coolant Temperature: 88
 Vehicle speed: 0
 Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 923
-Vehicle speed: 0
-Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 924
-Vehicle speed: 0
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 921
 Vehicle speed: 0
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 922
 Vehicle speed: 0
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 929
-Vehicle speed: 0
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 918
 Vehicle speed: 0
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 931
 Vehicle speed: 0
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 917
 Vehicle speed: 0
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 928
 Vehicle speed: 0
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 909
 Vehicle speed: 0
 Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 916
-Vehicle speed: 0
-Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 919
-Vehicle speed: 0
-Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 915
+Coolant Temperature: 88
+Vehicle speed: 0
+Coolant Temperature: 88
 Vehicle speed: 0
 Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 924
-Vehicle speed: 0
-Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 915
-Vehicle speed: 0
-Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 911
-Vehicle speed: 0
-Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 915
-Vehicle speed: 0
-Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 963
-Vehicle speed: 0
-Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 978
-Vehicle speed: 0
-Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1480
-Vehicle speed: 3
 Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1601
 Vehicle speed: 10
-Coolant Temperature: 88
 RPM: 2289
 Vehicle speed: 13
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 2208
 Vehicle speed: 15
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1766
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 2138
 Vehicle speed: 24
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 2444
 Vehicle speed: 27
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 2774
 Vehicle speed: 30
 Intake Air Temperature: 46
-Coolant Temperature: 88
 RPM: 1973
-Vehicle speed: 30
 Intake Air Temperature: 46
-Coolant Temperature: 88
 RPM: 1780
 Vehicle speed: 32
 Intake Air Temperature: 47
@@ -1858,143 +1072,87 @@ Vehicle speed: 41
 Intake Air Temperature: 47
 Coolant Temperature: 89
 RPM: 2460
-Vehicle speed: 43
 Intake Air Temperature: 46
 Coolant Temperature: 89
 RPM: 2384
-Vehicle speed: 43
 Coolant Temperature: 89
 RPM: 1886
-Vehicle speed: 43
 Intake Air Temperature: 46
-Coolant Temperature: 89
 RPM: 1857
-Vehicle speed: 43
 Intake Air Temperature: 47
 Coolant Temperature: 89
-RPM: 1871
 Vehicle speed: 44
-Intake Air Temperature: 47
 Coolant Temperature: 89
 RPM: 1844
-Vehicle speed: 43
 Intake Air Temperature: 47
-Coolant Temperature: 90
 RPM: 1725
 Vehicle speed: 40
-Intake Air Temperature: 47
 Coolant Temperature: 90
-RPM: 1666
 Vehicle speed: 38
 Intake Air Temperature: 47
-Coolant Temperature: 89
 RPM: 1605
-Vehicle speed: 37
 Intake Air Temperature: 47
 Coolant Temperature: 89
-RPM: 1571
 Vehicle speed: 37
-Intake Air Temperature: 48
 Coolant Temperature: 89
 RPM: 1595
-Vehicle speed: 37
 Intake Air Temperature: 48
-Coolant Temperature: 89
 RPM: 1641
-Vehicle speed: 38
 Intake Air Temperature: 48
 Coolant Temperature: 89
-RPM: 1694
 Vehicle speed: 40
-Intake Air Temperature: 48
 Coolant Temperature: 89
-RPM: 1677
 Vehicle speed: 39
 Intake Air Temperature: 48
 Coolant Temperature: 89
-RPM: 1696
 Vehicle speed: 40
-Intake Air Temperature: 48
 Coolant Temperature: 89
 RPM: 1795
-Vehicle speed: 42
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1872
-Vehicle speed: 44
 Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1900
 Vehicle speed: 44
-Intake Air Temperature: 46
 Coolant Temperature: 88
 RPM: 1844
-Vehicle speed: 44
-Intake Air Temperature: 46
-Coolant Temperature: 89
 RPM: 1810
-Vehicle speed: 42
 Intake Air Temperature: 46
-Coolant Temperature: 89
 RPM: 1754
 Vehicle speed: 41
-Intake Air Temperature: 47
 Coolant Temperature: 89
 RPM: 1689
-Vehicle speed: 40
-Intake Air Temperature: 47
-Coolant Temperature: 89
-RPM: 1715
-Vehicle speed: 40
 Intake Air Temperature: 47
 Coolant Temperature: 89
 Vehicle speed: 40
+Coolant Temperature: 89
 Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1670
 Vehicle speed: 39
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1573
 Vehicle speed: 37
-Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 1515
-Vehicle speed: 36
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1477
 Vehicle speed: 34
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1377
 Vehicle speed: 32
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 1174
-Vehicle speed: 28
 Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 997
 Vehicle speed: 27
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 911
-Vehicle speed: 23
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 918
 Vehicle speed: 19
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 919
 Vehicle speed: 15
-Intake Air Temperature: 48
 Coolant Temperature: 87
 RPM: 959
-Vehicle speed: 11
 Intake Air Temperature: 48
-Coolant Temperature: 87
 RPM: 978
 Vehicle speed: 8
 Intake Air Temperature: 48
@@ -2011,140 +1169,83 @@ RPM: 948
 Vehicle speed: 1
 Intake Air Temperature: 48
 Coolant Temperature: 87
-RPM: 919
 Vehicle speed: 0
-Intake Air Temperature: 48
 Coolant Temperature: 87
 RPM: 929
-Vehicle speed: 0
 Intake Air Temperature: 48
-Coolant Temperature: 87
 RPM: 917
 Vehicle speed: 0
-Intake Air Temperature: 48
 Coolant Temperature: 87
-RPM: 915
 Vehicle speed: 0
-Intake Air Temperature: 49
 Coolant Temperature: 87
 RPM: 944
-Vehicle speed: 0
 Intake Air Temperature: 49
-Coolant Temperature: 87
 RPM: 923
-Vehicle speed: 0
 Intake Air Temperature: 49
-Coolant Temperature: 87
 RPM: 926
 Vehicle speed: 0
-Intake Air Temperature: 49
 Coolant Temperature: 87
-RPM: 927
 Vehicle speed: 0
-Intake Air Temperature: 48
 Coolant Temperature: 87
 RPM: 929
-Vehicle speed: 0
 Intake Air Temperature: 48
-Coolant Temperature: 87
 RPM: 930
-Vehicle speed: 0
 Intake Air Temperature: 48
 Coolant Temperature: 87
-RPM: 920
 Vehicle speed: 0
-Intake Air Temperature: 48
 Coolant Temperature: 87
-RPM: 935
 Vehicle speed: 0
-Intake Air Temperature: 48
 Coolant Temperature: 87
 RPM: 928
+Intake Air Temperature: 48
+Coolant Temperature: 87
 Vehicle speed: 0
 Intake Air Temperature: 48
 Coolant Temperature: 87
-RPM: 926
 Vehicle speed: 0
 Intake Air Temperature: 48
-Coolant Temperature: 87
-RPM: 931
-Vehicle speed: 0
-Intake Air Temperature: 48
-Coolant Temperature: 87
 RPM: 923
-Vehicle speed: 0
 Intake Air Temperature: 48
-Coolant Temperature: 87
 RPM: 1006
 Vehicle speed: 0
-Intake Air Temperature: 48
 Coolant Temperature: 87
-RPM: 994
 Vehicle speed: 0
 Intake Air Temperature: 48
-Coolant Temperature: 87
 RPM: 943
-Vehicle speed: 0
 Intake Air Temperature: 49
-Coolant Temperature: 87
 RPM: 1008
 Vehicle speed: 1
-Intake Air Temperature: 49
 Coolant Temperature: 87
 RPM: 970
-Vehicle speed: 1
 Intake Air Temperature: 49
-Coolant Temperature: 87
 RPM: 1118
 Vehicle speed: 6
-Intake Air Temperature: 49
 Coolant Temperature: 87
-RPM: 1885
 Vehicle speed: 12
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 2211
 Vehicle speed: 14
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1445
-Vehicle speed: 14
 Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1416
 Vehicle speed: 15
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1881
 Vehicle speed: 21
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 2141
-Vehicle speed: 23
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1574
 Vehicle speed: 23
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1371
 Vehicle speed: 23
-Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 1303
-Vehicle speed: 21
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1271
 Vehicle speed: 22
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1386
 Vehicle speed: 24
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 1475
-Vehicle speed: 26
 Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 1503
@@ -2154,846 +1255,481 @@ Coolant Temperature: 88
 RPM: 1480
 Vehicle speed: 26
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1470
 Vehicle speed: 25
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1450
 Vehicle speed: 25
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1531
-Vehicle speed: 27
-Intake Air Temperature: 49
-Coolant Temperature: 88
-RPM: 1677
-Vehicle speed: 29
-Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 1732
 Vehicle speed: 30
-Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 1748
 Vehicle speed: 30
-Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 1750
-Vehicle speed: 30
-Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 1758
-Vehicle speed: 30
-Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1695
 Vehicle speed: 29
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1616
 Vehicle speed: 27
-Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 1459
-Vehicle speed: 25
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1397
-Vehicle speed: 24
 Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1390
 Vehicle speed: 24
-Intake Air Temperature: 49
 Coolant Temperature: 88
 RPM: 1404
-Vehicle speed: 24
 Intake Air Temperature: 49
-Coolant Temperature: 88
 RPM: 1561
-Vehicle speed: 28
 Intake Air Temperature: 49
 RPM: 1747
-Vehicle speed: 31
 Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1964
 Vehicle speed: 35
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 2117
-Vehicle speed: 37
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1765
 Vehicle speed: 37
-Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 1574
-Vehicle speed: 37
 Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1536
 Vehicle speed: 36
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1522
 Vehicle speed: 36
-Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 1515
-Vehicle speed: 35
 Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1542
 Vehicle speed: 36
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1577
 Vehicle speed: 37
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1609
-Vehicle speed: 37
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1568
 Vehicle speed: 37
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 1604
-Vehicle speed: 38
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1645
-Vehicle speed: 39
 Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1705
 Vehicle speed: 40
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 1767
 Vehicle speed: 42
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 1759
-Vehicle speed: 42
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1435
 Vehicle speed: 40
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1159
 Vehicle speed: 37
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1018
-Vehicle speed: 36
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 938
-Vehicle speed: 34
 Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 937
 Vehicle speed: 33
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1811
 Vehicle speed: 32
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1778
-Vehicle speed: 31
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1841
-Vehicle speed: 32
 Intake Air Temperature: 48
 Coolant Temperature: 89
 RPM: 1919
-Vehicle speed: 34
 Intake Air Temperature: 48
-Coolant Temperature: 89
 RPM: 1947
-Vehicle speed: 34
 Intake Air Temperature: 48
 Coolant Temperature: 89
-RPM: 1984
 Vehicle speed: 35
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 2031
-Vehicle speed: 35
 Intake Air Temperature: 48
 Coolant Temperature: 88
 Vehicle speed: 35
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 2048
-Vehicle speed: 36
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 2062
 Vehicle speed: 36
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 2099
 Vehicle speed: 36
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 2129
-Vehicle speed: 37
 Intake Air Temperature: 49
-Coolant Temperature: 88
 RPM: 2296
 Vehicle speed: 40
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 2417
 Vehicle speed: 42
 Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 2525
-Vehicle speed: 44
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 2518
 Vehicle speed: 44
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 2448
 Vehicle speed: 43
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 2350
 Vehicle speed: 40
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 2210
-Vehicle speed: 38
 Intake Air Temperature: 47
 Coolant Temperature: 89
 RPM: 2079
-Vehicle speed: 36
 Intake Air Temperature: 48
-Coolant Temperature: 89
 RPM: 1994
 Vehicle speed: 34
-Intake Air Temperature: 48
 Coolant Temperature: 89
-RPM: 1977
 Vehicle speed: 34
-Intake Air Temperature: 49
 Coolant Temperature: 89
 RPM: 2085
-Vehicle speed: 37
 Intake Air Temperature: 48
-Coolant Temperature: 89
 RPM: 2200
 Vehicle speed: 38
-Intake Air Temperature: 48
 Coolant Temperature: 89
-RPM: 2265
 Vehicle speed: 39
-Intake Air Temperature: 47
 Coolant Temperature: 89
 RPM: 2264
-Vehicle speed: 39
 Intake Air Temperature: 47
-Coolant Temperature: 89
 RPM: 2244
 Vehicle speed: 39
-Intake Air Temperature: 47
 Coolant Temperature: 89
-RPM: 2049
 Vehicle speed: 35
-Intake Air Temperature: 47
 Coolant Temperature: 89
 RPM: 1713
-Vehicle speed: 28
-Intake Air Temperature: 48
 Intake Air Temperature: 48
 RPM: 1513
-Vehicle speed: 26
 Intake Air Temperature: 48
-Coolant Temperature: 89
 RPM: 1511
 Vehicle speed: 26
-Intake Air Temperature: 48
 Coolant Temperature: 89
-RPM: 1451
 Vehicle speed: 25
-Intake Air Temperature: 48
 Coolant Temperature: 89
 RPM: 1337
-Vehicle speed: 24
 Intake Air Temperature: 49
-Coolant Temperature: 89
 RPM: 1533
 Vehicle speed: 27
-Intake Air Temperature: 49
 Coolant Temperature: 89
-RPM: 1677
 Vehicle speed: 29
 Intake Air Temperature: 48
-Coolant Temperature: 89
 RPM: 1771
-Vehicle speed: 31
 Intake Air Temperature: 48
-Coolant Temperature: 89
 RPM: 1794
 Vehicle speed: 31
-Intake Air Temperature: 47
 Coolant Temperature: 89
-RPM: 1794
 Vehicle speed: 31
-Intake Air Temperature: 48
 Coolant Temperature: 89
-RPM: 1834
 Vehicle speed: 32
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1963
-Vehicle speed: 34
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1986
-Vehicle speed: 34
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1933
 Vehicle speed: 33
-Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 1925
-Vehicle speed: 33
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1971
-Vehicle speed: 34
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1974
-Vehicle speed: 34
 Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 1969
-Vehicle speed: 34
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1967
-Vehicle speed: 34
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1962
-Vehicle speed: 34
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1961
-Vehicle speed: 34
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1969
 Vehicle speed: 34
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1924
 Vehicle speed: 33
-Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 1931
-Vehicle speed: 33
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1890
 Vehicle speed: 33
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1875
 Vehicle speed: 32
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1840
 Vehicle speed: 32
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1873
 Vehicle speed: 32
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1714
 Vehicle speed: 29
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1524
-Vehicle speed: 26
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1277
 Vehicle speed: 24
-Intake Air Temperature: 49
 Coolant Temperature: 88
 RPM: 1057
-Vehicle speed: 20
 Intake Air Temperature: 49
-Coolant Temperature: 87
 RPM: 960
-Vehicle speed: 17
 Intake Air Temperature: 49
 Coolant Temperature: 87
-RPM: 931
 Vehicle speed: 15
-Intake Air Temperature: 49
 Coolant Temperature: 87
-RPM: 933
 Vehicle speed: 13
 Intake Air Temperature: 49
-Coolant Temperature: 87
 RPM: 918
 Vehicle speed: 12
-Intake Air Temperature: 49
 Coolant Temperature: 87
-RPM: 921
 Vehicle speed: 10
-Intake Air Temperature: 49
 Coolant Temperature: 87
-RPM: 926
 Vehicle speed: 8
 Intake Air Temperature: 49
-Coolant Temperature: 87
 RPM: 928
-Vehicle speed: 6
 Intake Air Temperature: 49
-Coolant Temperature: 87
 RPM: 917
 Vehicle speed: 5
-Intake Air Temperature: 49
 Coolant Temperature: 87
 RPM: 921
-Vehicle speed: 3
-Intake Air Temperature: 49
 Coolant Temperature: 87
 RPM: 928
 Vehicle speed: 1
 Intake Air Temperature: 49
 Coolant Temperature: 87
-RPM: 974
 Vehicle speed: 0
 Intake Air Temperature: 49
 Coolant Temperature: 87
-RPM: 925
 Vehicle speed: 0
 Intake Air Temperature: 49
-Coolant Temperature: 87
 RPM: 918
-Vehicle speed: 0
 Intake Air Temperature: 49
-Coolant Temperature: 87
 RPM: 921
 Vehicle speed: 0
-Intake Air Temperature: 49
 Coolant Temperature: 87
 RPM: 913
-Vehicle speed: 0
 Intake Air Temperature: 49
-Coolant Temperature: 87
 RPM: 915
 Vehicle speed: 0
-Intake Air Temperature: 49
 Coolant Temperature: 87
-RPM: 1007
 Vehicle speed: 0
 Intake Air Temperature: 49
-Coolant Temperature: 87
 RPM: 1486
-Vehicle speed: 2
 Intake Air Temperature: 49
 Coolant Temperature: 87
-RPM: 1346
 Vehicle speed: 8
-Intake Air Temperature: 49
 Coolant Temperature: 87
-RPM: 1947
 Vehicle speed: 11
 Intake Air Temperature: 48
-Coolant Temperature: 87
 RPM: 2330
 Vehicle speed: 13
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 1537
-Vehicle speed: 14
 Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1501
 Vehicle speed: 16
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 1763
-Vehicle speed: 19
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1986
-Vehicle speed: 22
 Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 2181
 Vehicle speed: 24
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 2274
 Vehicle speed: 24
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1507
-Vehicle speed: 24
 Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1243
 Vehicle speed: 22
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 1216
 Vehicle speed: 21
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1209
 Vehicle speed: 20
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1253
 Vehicle speed: 22
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1399
-Vehicle speed: 25
 Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1463
 Vehicle speed: 26
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1523
 Vehicle speed: 26
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1656
 Vehicle speed: 30
-Coolant Temperature: 88
+Intake Air Temperature: 48
 RPM: 1780
-Vehicle speed: 31
 Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 1871
-Vehicle speed: 32
 Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1866
 Vehicle speed: 32
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1795
 Vehicle speed: 31
-Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 1779
-Vehicle speed: 31
 Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1731
 Vehicle speed: 30
 Intake Air Temperature: 47
-Coolant Temperature: 89
 RPM: 1576
-Vehicle speed: 27
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1367
 Vehicle speed: 22
-Intake Air Temperature: 48
 Coolant Temperature: 89
 RPM: 1128
-Vehicle speed: 17
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1037
-Vehicle speed: 15
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 857
 Vehicle speed: 14
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 860
 Vehicle speed: 13
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 870
 Vehicle speed: 13
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 928
 Vehicle speed: 12
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 941
 Vehicle speed: 11
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 930
 Vehicle speed: 11
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 910
-Vehicle speed: 10
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 928
 Vehicle speed: 10
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 945
-Vehicle speed: 9
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 940
 Vehicle speed: 9
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 935
 Vehicle speed: 8
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 936
 Vehicle speed: 5
-Intake Air Temperature: 49
 Coolant Temperature: 88
-RPM: 940
 Vehicle speed: 3
-Intake Air Temperature: 49
 Coolant Temperature: 88
-RPM: 934
 Vehicle speed: 1
+Coolant Temperature: 88
 Intake Air Temperature: 49
-Coolant Temperature: 88
-RPM: 939
-Vehicle speed: 0
-Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 930
-Vehicle speed: 0
-Intake Air Temperature: 48
-Coolant Temperature: 88
-RPM: 939
-Vehicle speed: 0
-Intake Air Temperature: 49
-Coolant Temperature: 88
-RPM: 923
-Vehicle speed: 0
-Intake Air Temperature: 49
-Coolant Temperature: 88
-RPM: 927
-Vehicle speed: 0
-Intake Air Temperature: 49
-Coolant Temperature: 88
 RPM: 936
-Vehicle speed: 0
 Intake Air Temperature: 49
 Coolant Temperature: 88
-RPM: 987
+Vehicle speed: 0
+Coolant Temperature: 87
 Vehicle speed: 0
 Intake Air Temperature: 49
 Coolant Temperature: 87
-RPM: 1000
-Vehicle speed: 0
-Intake Air Temperature: 49
-Coolant Temperature: 87
-RPM: 1196
 Vehicle speed: 2
-Intake Air Temperature: 49
 Coolant Temperature: 87
 RPM: 1609
-Vehicle speed: 9
 Intake Air Temperature: 49
-Coolant Temperature: 87
 RPM: 2130
 Vehicle speed: 13
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 2549
 Vehicle speed: 15
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1508
-Vehicle speed: 16
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1924
-Vehicle speed: 21
 Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 2295
 Vehicle speed: 26
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 2495
-Vehicle speed: 27
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1622
 Vehicle speed: 26
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1588
 Vehicle speed: 27
-Intake Air Temperature: 47
 Coolant Temperature: 88
 RPM: 1592
-Vehicle speed: 28
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1647
-Vehicle speed: 28
 Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1541
 Vehicle speed: 27
-Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1478
 Vehicle speed: 25
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1321
-Vehicle speed: 22
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1215
-Vehicle speed: 21
 Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1142
 Vehicle speed: 19
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 1080
-Vehicle speed: 19
 Intake Air Temperature: 49
-Coolant Temperature: 88
 RPM: 1173
-Vehicle speed: 19
 Intake Air Temperature: 49
 Coolant Temperature: 88
-RPM: 1185
 Vehicle speed: 21
-Intake Air Temperature: 49
 Coolant Temperature: 88
-RPM: 1297
 Vehicle speed: 22
 Intake Air Temperature: 49
 Coolant Temperature: 88
-RPM: 1380
 Vehicle speed: 24
 Intake Air Temperature: 49
-Coolant Temperature: 88
 RPM: 1440
 Vehicle speed: 25
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1404
 Vehicle speed: 23
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 1258
-Vehicle speed: 22
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1225
 Vehicle speed: 21
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1176
 Vehicle speed: 20
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 1147
-Vehicle speed: 20
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1138
-Vehicle speed: 19
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1102
 Vehicle speed: 18
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 1006
-Vehicle speed: 15
 Intake Air Temperature: 49
-Coolant Temperature: 88
 RPM: 902
-Vehicle speed: 15
-Intake Air Temperature: 49
-Coolant Temperature: 88
-RPM: 848
-Vehicle speed: 15
 Intake Air Temperature: 49
 Coolant Temperature: 88
 Vehicle speed: 15
+Coolant Temperature: 88
 Intake Air Temperature: 49
 Coolant Temperature: 88
-RPM: 917
 Vehicle speed: 16
-Intake Air Temperature: 49
 Coolant Temperature: 88
-RPM: 999
 Vehicle speed: 17
-Intake Air Temperature: 48
 Coolant Temperature: 88
 RPM: 974
-Vehicle speed: 17
 Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 923
 Vehicle speed: 17
-Intake Air Temperature: 49
 Coolant Temperature: 88
-RPM: 1002
 Vehicle speed: 18
-Intake Air Temperature: 49
 Coolant Temperature: 88
 RPM: 1209
-Vehicle speed: 21
 Intake Air Temperature: 49
-Coolant Temperature: 88
 RPM: 1422
 Vehicle speed: 25
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1598
 Vehicle speed: 28
-Intake Air Temperature: 48
 Coolant Temperature: 88
-RPM: 1694
 Vehicle speed: 29
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1645
-Vehicle speed: 28
 Intake Air Temperature: 47
 Coolant Temperature: 88
-RPM: 1660
 Vehicle speed: 29
 Intake Air Temperature: 48
-Coolant Temperature: 88
 RPM: 1742
-Vehicle speed: 30
 Intake Air Temperature: 47
-Coolant Temperature: 88
 RPM: 1769
 FIM
