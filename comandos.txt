@@ -1,0 +1,11 @@
+Virtualizar uma rede can.
+
+sudo modprobe vcan
+sudo ip link add dev vcan0 type vcan
+sudo ip link set vcan0 up
+
+Enviar e visualizar trafego na rede
+
+cansend vcan0 123#DEADBEEF
+canplayer -I frames.log
+candump vcan0 > frames.txt
