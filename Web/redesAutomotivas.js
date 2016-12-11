@@ -24,20 +24,40 @@ function checkFirstLetter(count, string){
 			case 'C':
 				numberValueCT = numberValueCT + string.charAt(count);
 				if(numberValueCT > 87){
-					$("#myImage").attr("src","images/temp1_oN.png");
+					$("#imageCoolantTemp").attr("src","images/temp1_on.png");
+				}else{
+					$("#imageCoolantTemp").attr("src","images/temp1_off.png");
 				}
 				fileDisplayCT.innerText		= numberValueCT 	+ " °C";
 				break;
 			case 'R':
 				numberValueRPM = numberValueRPM + string.charAt(count);
+				console.log("numberValueRPM = " + numberValueRPM);
+				if(numberValueRPM > 1000){
+					$("#imageRPM").attr("src","images/rpm_on.png");
+					//$("#rpm").css("background","#ff6c00");
+				}else{
+					$("#imageRPM").attr("src","images/rpm_off.png");
+					//$("#rpm").css("background","#5FBEB8");
+				}
 				fileDisplayRPM.innerText	= numberValueRPM 	+ " Rpm";
 				break;
 			case 'V':
 				numberValueVS = numberValueVS + string.charAt(count);
+				if(numberValueVS > 20){
+					$("#imageVehicleSpeed").attr("src","images/rpm_on.png");
+				}else{
+					$("#imageVehicleSpeed").attr("src","images/rpm_off.png");
+				}
 				fileDisplayVS.innerText		= numberValueVS 	+ " Km/h";
 				break;
 			case 'I':
 				numberValueITA = numberValueITA + string.charAt(count);
+				if(numberValueITA > 44){
+					$("#imageIntakeAirTemp").attr("src","images/temp2_on.png");
+				}else{
+					$("#imageIntakeAirTemp").attr("src","images/temp2_off.png");
+				}
 				fileDisplayITA.innerText	= numberValueITA 	+ " °C";
 				break;
 			default:
@@ -54,7 +74,7 @@ function readLine(){
 			}
     	}
     	checkFirstLetter(count2, line[count]);
-    	time = setTimeout(readLine, 1000);
+    	time = setTimeout(readLine, 250);
 	}else{
 		clearTimeout(time);
 		alert("Fim do Arquivo.");
@@ -70,7 +90,7 @@ function readLine(){
 
 function start() {
     readTextFile("result.txt");
-    time = setTimeout(readLine, 1000);
+    time = setTimeout(readLine, 250);
 }
 
 function readTextFile(file)
